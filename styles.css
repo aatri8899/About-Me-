@@ -1,0 +1,95 @@
+h1 {
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 85px;
+
+}
+
+.Me {
+    text-align: center;    
+    font-size: 85px;
+}
+
+a {
+    color: #FFFFFF;
+}
+body {
+    color: #FFFFFF;
+    background-image: url("http://api.ning.com/files/4P*t7aAuCQVxLoGUfmHk1-GFWToLxG7tjp7A8ATMHV1EjER5sI4EXUuNMuITJ4S6eHfmgbTXLO1y0KN-i3FeY8*2ZSR2qTWW/5th_Dimensional_Earth_Ascended_Gaia.gif");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 1700px 1000px;   
+}
+
+p {
+    color: #FFFFFF;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 70px;
+    
+}
+.Me {
+    color: #FFFFFF;
+}
+
+li {
+    display: inline;
+}
+.aboutme {
+    color: #FFFFFF;
+    font-size: 40px;
+    background: blue;
+}
+.navigation{
+    width: 100%;
+    font-size: 15px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: black;
+    padding-top: 27px;
+    padding-bottom: 27px;
+}
+.navigation li {
+    padding: 25px;
+    border: solid blue 3px;
+}
+.head {
+    color: #FFFFFF;
+    font-size: 40px;
+}
+.link {
+    font-size: 25px;
+}
+.london{
+    font-size: 40px;
+    color: #FFFFFF;
+}
+.picture {
+ width: 250px;
+ height: 250px;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+.hackathon {
+    position: relative;
+    left: 450px;
+    width: 250px;
+    height: 250px;
+}
+.aboutme {
+    font-size: 40px;
+}
+div {
+    max-width: 500px;
+    height: 100px;
+    border: 3px solid #73AD21;
+}
+.cousin{
+    clear: both;
+}
+.picture{
+    width: 250px;
+    height: 250px;
+}
